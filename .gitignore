@@ -1,0 +1,10 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Excel files (not needed for program operation)
+*.xlsx
+
+# OS-specific files
+.DS_Store
+Thumbs.db
